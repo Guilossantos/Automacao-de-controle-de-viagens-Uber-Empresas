@@ -1,0 +1,4 @@
+{
+    "NOTION_API_KEY": "sua_chave_da_api_notion_aqui",
+    "NOTION_DATABASE_ID": "id_da_base_de_dados_de_pagamentos"
+}
